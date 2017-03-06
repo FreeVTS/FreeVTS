@@ -1,6 +1,6 @@
 ﻿namespace FreeVTS
 {
-    partial class Form1
+    partial class FreeVTS_MainWindow
     {
         /// <summary>
         /// Variable nécessaire au concepteur.
